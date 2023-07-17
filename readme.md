@@ -1,7 +1,9 @@
 # TicTacToe Practical Exam
 
 ## Dependencies for the Client and Installations using React Typescript
-
+Create two folders for "client" and "server"
+Client is where the React (Front-End) Files
+Server where the pseudo backend used a simple API to be imported to the clients folder
 Go to Clients Folder by
 
 ```
