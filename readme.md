@@ -20,7 +20,7 @@ To install dependencies
 npm i -D tailwindcss postcss autoprefixer axios
 ```
 
-or if you want to clone this just type the command
+or if you already cloned this just type the command
 
 ```
 npm install
@@ -30,6 +30,12 @@ or
 
 ```
 npm i
+```
+
+then run dev
+
+```
+npm run dev
 ```
 
 ## Dependencies for the Server and Installations
@@ -56,4 +62,10 @@ or
 
 ```
 npm i
+```
+
+then run dev "You can change the dev on the package.json of anything you like"
+
+```
+npm run dev
 ```
