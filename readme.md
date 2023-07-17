@@ -13,6 +13,7 @@ To create React Project, so I am using Vite
 ```
 npm i vite@latest
 ```
+then follow instructions to create the project using Typescript instead of React
 
 To install dependencies
 
